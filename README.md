@@ -2,7 +2,7 @@
 
 This is an example of how to implement custom open source license page for flutter.
 
-<img src="./screen_shot.png" width="500" />
+<img src="./screen_shot.png" width="400" />
 
 ## Motivation
 
